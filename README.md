@@ -27,7 +27,7 @@ Code and data for the paper **Type I Interferon Activity And Galectin-9 Define I
   
 ## 📜 License
 
-MIT License
+This project is licensed under the MIT License – see the LICENSE file for details.
 
 ## 📬 Contact
 
